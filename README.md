@@ -9,4 +9,9 @@ Beautiful Soup and Selenium Libraries
 Movie Theater Times Scraper:
 https://www.fandango.com/11553_movietimes?mode=general&q=11553
 Pull the:
-  Theater, Address, Movies, Genre, Rating,  Times
+  * Theater,
+  * Address,
+  * Movies,
+  * Genre,
+  * Rating,  
+  * Times
