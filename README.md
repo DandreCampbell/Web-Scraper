@@ -13,5 +13,5 @@ Pull the:
   * Address,
   * Movies,
   * Genre,
-  * Rating,  
+  * Rating,
   * Times
